@@ -6,25 +6,20 @@ namespace RecipeConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Горячий сырный бутерброд");
+            Console.WriteLine("Идуальный утрений кофе");
             Console.WriteLine();
 
             Console.WriteLine("Ингредиенты:");
-            Console.WriteLine("• 2 ломтика белого хлеба");
-            Console.WriteLine("• 50 г твёрдого сыра (любого)");
-            Console.WriteLine("• 1 ч. л. сливочного масла");
-            Console.WriteLine("• Щепотка соли (по желанию)");
+            Console.WriteLine("• Кофе молотый - 2 чайные ложки");
+            Console.WriteLine("• Вода 200 мл");
+            Console.WriteLine("• Сахар 1-2 чайные ложки");
             Console.WriteLine();
 
             Console.WriteLine("Приготовление:");
-            Console.WriteLine("1. Натереть сыр на мелкой тёрке.");
-            Console.WriteLine("2. Намажьте сливочное масло на внешние стороны ломтиков хлеба.");
-            Console.WriteLine("3. Выложите весь натёртый сыр между ломтиками хлеба.");
-            Console.WriteLine("4. Разогрейте сковороду на среднем огне.");
-            Console.WriteLine("5. Положите бутерброд на сковороду маслённой стороной вниз.");
-            Console.WriteLine("6. Жарьте 2-3 минуты до золотистой корочки, затем переверните.");
-            Console.WriteLine("7. Жарьте ещё 2 минуты до расплавления сыра.");
-            Console.WriteLine("8. Готово! Подавайте горячим.");
+            Console.WriteLine("1. Засыпать кофе в турку или кофеварку");
+            Console.WriteLine("2. Залить холодной водой.");
+            Console.WriteLine("3. Варить на медленном огне, не доводя до кипения.");
+            Console.WriteLine("4. Перелить в чашку, добавить сахар.");
             Console.WriteLine();
 
             Console.WriteLine("Нажмите Enter для выхода...");
