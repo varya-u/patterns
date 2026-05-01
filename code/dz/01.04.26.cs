@@ -6,7 +6,7 @@ namespace RecipeConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Идуальный утрений кофе");
+            Console.WriteLine("Идеальный утрений кофе");
             Console.WriteLine();
 
             Console.WriteLine("Ингредиенты:");
