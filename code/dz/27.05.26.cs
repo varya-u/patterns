@@ -9,7 +9,7 @@ public class TaskItem
     public TaskItem(string description)
     {
         Description = description;
-        IsDone = false; // по умолчанию задача не выполнена
+        IsDone = false; 
     }
 
     public override string ToString()
